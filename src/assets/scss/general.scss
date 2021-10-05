@@ -14,3 +14,12 @@ body{
 .fa-chevron-down{
    transition: transform .5s ease;
 }
+.selected{
+   background: black;
+   color: white;
+}
+ul{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
